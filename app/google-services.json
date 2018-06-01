@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "865217637837",
+    "firebase_url": "https://sabzidb.firebaseio.com",
+    "project_id": "sabzidb",
+    "storage_bucket": "sabzidb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865217637837:android:b9d545c817fd7798",
+        "android_client_info": {
+          "package_name": "com.sabziwale.sabziwale"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865217637837-vad41sgjof5n71d3td70jl5ij5vo284t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sabziwale.sabziwale",
+            "certificate_hash": "cf4f8605aa279bb086daeaebee86a78e3d109acf"
+          }
+        },
+        {
+          "client_id": "865217637837-iaop4k4j94lu92e58fnil21qd78l6aj9.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "865217637837-iaop4k4j94lu92e58fnil21qd78l6aj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxJsad79Ev52p4RG9nEmQ9ZkXvnozhOrU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865217637837-iaop4k4j94lu92e58fnil21qd78l6aj9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
